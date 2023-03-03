@@ -24,9 +24,9 @@ Provide Computing Vision with a new direction for their first film by using stat
 
 ##  Final Result 
 
-- Animation Genre 
+- Animation, Action, or Adventure Genre 
 
-- Run-time of 100 to 175 minutes 
+- Run-time of 120 to 150 minutes 
 
 - Release movie in the second quarter of the year 
 
@@ -100,4 +100,4 @@ The next steps section highlights an outline for future data visualization and s
 
 ## Conclusion
 
-We recommend that for Computing vision’s first film, it is in their best interest to make an animated-genre film having a runtime of 100 to 175 minutes, released in the second quarter of the year.
+We recommend that for Computing vision’s first film, it is in their best interest to make an animated, action, or adventure genre film having a runtime of 120 to 150 minutes, released in the second quarter of the year.
