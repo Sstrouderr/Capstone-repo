@@ -60,25 +60,25 @@ The top 3 performing genres in order of performance are:
 
 With this analysis, we recommend that computing vision gears it resources towards making an animated film. 
 
-![genres](images/Genres.png)
+![genres](Images/Genres.png)
 
 ###  Runtime
 
 We also explored the possibility of runtime minutes in a film affecting the profit. We analyzed the data by breaking down the runtime in 30 minute intervals and taking the average of the profit for each interval. The results showed that the runtime interval with 150 to 180 runtime minutes had an average profit of 2.8 million. However, the amount of data for this interval was significantly smaller in comparison to the the other intervals. The second highest profit was between 120 and 150 runtime minutes with an average profit of 1.8 and contained a greater amount of data. Therefore, it would be safer to create a film that is around 120 to 150 minutes. 
 
-![runtime](images/runtime.png)
+![runtime](Images/runtime.png)
 
 ###  Quarter 
 
 A key insight that our team explored was what time frame the movie was released. To analyze this we broke the release dates into different quarters of the year. Grouping the release dates into quarters made it a lot easier to visualize the data and come up with a final conclusion. Each quarter yielded a profit of 0.97,1.3, 0.8,1.08 respectively. These values led us to believe that quarter two has the highest average profit of 1.3 and is why we recommend to release the movie in quarter 2 over all of the others. 
 
-![quarter](images/quarters.png)
+![quarter](Images/quarters.png)
 
 ###  Budget
 
 Our analysis shows us that a movie's performance is moderately correlated with its budget with a positive correlation of 0.676. It is therefore suggested to have a greater budget in order to maximize profit.
 
-![budget](images/Budgets.png)
+![budget](Images/Budgets.png)
 
 ## Statistical Findings 
 
